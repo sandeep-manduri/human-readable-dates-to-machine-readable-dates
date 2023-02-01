@@ -8,4 +8,4 @@ example:
 models in the notebook are 
 1.  LSTM + multi_head_attention model 
 
-2. Transformer with stack length of both encoder and decoder as 3 (ref : https://arxiv.org/abs/1706.03762)
+2. Transformer model (ref : https://arxiv.org/abs/1706.03762)
